@@ -1,6 +1,7 @@
-import org.junit.Test;
+package wypozyczalnia;
 
-import static org.junit.Assert.*;
+import org.junit.Test;
+import wypozyczalnia.Utwor;
 
 public class UtworTest {
     @Test

@@ -1,4 +1,8 @@
+package wypozyczalnia;
+
 import org.junit.Test;
+import wypozyczalnia.PlytaCd;
+import wypozyczalnia.Utwor;
 
 import java.util.ArrayList;
 import java.util.List;

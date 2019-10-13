@@ -1,3 +1,5 @@
+package wypozyczalnia;
+
 import lombok.Getter;
 
 import java.io.File;

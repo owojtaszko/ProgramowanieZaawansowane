@@ -1,4 +1,9 @@
+package wypozyczalnia;
+
 import org.junit.Test;
+import wypozyczalnia.Biblioteka;
+import wypozyczalnia.PlytaCd;
+import wypozyczalnia.Utwor;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
